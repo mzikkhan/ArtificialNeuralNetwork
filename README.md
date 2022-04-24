@@ -1,2 +1,2 @@
 # BeginningDL
-Diving into the world of Deep Learning
+An ANN model to determine whether a customer is likely to leave the bank or not
